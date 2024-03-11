@@ -34,25 +34,185 @@ My biggest solo project and bachelor thesis work was developed using **Python**.
 bass, motif, and percussion tracks are created. The hybrid system uses emotional parameters from predicted point on valence-arousal plane, which have impact on GA fitness function and other parameters such as MIDI velocity range. Tracks and their sections are given their titles, and creative process is explained by ChatGPT in the chat window.
 
 #### Example generations
-To present the functionality of the system, I generated couple of songs using descriptions from Meta's MusicGen and Google's MusicLM sites,
+To present the functionality of the system, I generated couple of songs using descriptions from Meta's MusicGen and Google's MusicLM sites. Presented wav files are synthesized from MIDI, so they have quite basic instrument sounding. They can however be used to synthesize with finer samples.
 
 <table>
 <tr>
 <td>
 
-*Smooth jazz, with a saxophone solo, piano chords, and snare full drums*
+Prompt: *Smooth jazz, with a saxophone solo, piano chords, and snare full drums*
 
 </td>
 <td>
 
 <audio controls>
   <source src="assets/audio/Velvet-Evening-20231208-114938.wav" type="audio/wav">
-Audio can not be displayed.
+Audio can not be played.
+</audio>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Prompt: *80s electronic track with melodic synthesizers, catchy beat and groovy bass*
+
+</td>
+<td>
+
+<audio controls>
+  <source src="assets/audio/Retro-Synthwave-20231209-175338.wav" type="audio/wav">
+Audio can not be played.
+</audio>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Prompt: *Progressive rock drum and bass solo*
+
+</td>
+<td>
+
+<audio controls>
+  <source src="assets/audio/Progressive-Odyssey-20231208-143.wav" type="audio/wav">
+Audio can not be played.
+</audio>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Prompt: *drum and bass beat with intense percussions*
+
+</td>
+<td>
+
+<audio controls>
+  <source src="assets/audio/Intense-Rhythm-20231208-115146.wav" type="audio/wav">
+Audio can not be played.
+</audio>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Prompt: *A grand orchestral arrangement with thunderous percussion, epic brass fanfares, and soaring strings, creating a cinematic atmosphere fit for a heroic battle.*
+
+</td>
+<td>
+
+<audio controls>
+  <source src="assets/audio/Heroic-Skies-20231208-130450.wav" type="audio/wav">
+Audio can not be played.
 </audio>
 
 </td>
 </tr>
 </table>
 
+<tr>
+<td>
+
+Prompt: *Funky piece with a strong, danceable beat and a prominent bassline. A catchy melody from a keyboard adds a layer of richness and complexity to the song.*
+
+</td>
+<td>
+
+<audio controls>
+  <source src="assets/audio/Funk-Odyssey-20231209-134348.wav" type="audio/wav">
+Audio can not be played.
+</audio>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Prompt: *Funky piece with a strong, danceable beat and a prominent bassline. A catchy melody from a keyboard adds a layer of richness and complexity to the song.*
+
+</td>
+<td>
+
+<audio controls>
+  <source src="assets/audio/Funk-Odyssey-20231209-134348.wav" type="audio/wav">
+Audio can not be played.
+</audio>
+
+</td>
+</tr>
+<tr>
+<td>
+
+Prompt: *Epic soundtrack using orchestral instruments. The piece builds tension, creates a sense of urgency. An a cappella chorus sing in unison, it creates a sense of power and strength.*
+
+</td>
+<td>
+
+<audio controls>
+  <source src="assets/audio/Epic-Orchestral-Surge-20231208-1.wav" type="audio/wav">
+Audio can not be played.
+</audio>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Prompt: *Violins and synths that inspire awe at the finiteness of life and the universe.*
+
+</td>
+<td>
+
+<audio controls>
+  <source src="assets/audio/Celestial-Reverie-20231208-11391.wav" type="audio/wav">
+Audio can not be played.
+</audio>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Prompt: *The main soundtrack of an arcade game. It is fast-paced and upbeat, with a catchy electric guitar riff. The music is repetitive and easy to remember, but with unexpected sounds, like cymbal crashes or drum rolls.*
+
+</td>
+<td>
+
+<audio controls>
+  <source src="assets/audio/Arcade-Rush-20231208-135906.wav" type="audio/wav">
+Audio can not be played.
+</audio>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Prompt: *We can hear a choir, singing a Gregorian chant, and a drum machine, creating a rhythmic beat. The slow, stately sounds of strings provide a calming backdrop for the fast, complex sounds of futuristic electronic music.*
+
+</td>
+<td>
+
+<audio controls>
+  <source src="assets/audio/Ancient-Future-20231208-121749.wav" type="audio/wav">
+Audio can not be played.
+</audio>
+
+</td>
+</tr>
+
+</table>
 
 ![GGPT Music Composer Interface](/assets/img/GGPTComposer.png)
