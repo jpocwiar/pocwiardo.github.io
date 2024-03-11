@@ -41,7 +41,7 @@ To present the functionality of the system, I generated couple of songs using de
 <tr>
 <td>
 
-Prompt: *Smooth jazz, with a saxophone solo, piano chords, and snare full drums*
+Prompt: Smooth jazz, with a saxophone solo, piano chords, and snare full drums
 
 </td>
 <td>
@@ -57,7 +57,7 @@ Audio can not be played.
 <tr>
 <td>
 
-Prompt: *80s electronic track with melodic synthesizers, catchy beat and groovy bass*
+Prompt: 80s electronic track with melodic synthesizers, catchy beat and groovy bass
 
 </td>
 <td>
@@ -73,7 +73,7 @@ Audio can not be played.
 <tr>
 <td>
 
-Prompt: *Progressive rock drum and bass solo*
+Prompt: Progressive rock drum and bass solo
 
 </td>
 <td>
@@ -89,7 +89,7 @@ Audio can not be played.
 <tr>
 <td>
 
-Prompt: *drum and bass beat with intense percussions*
+Prompt: drum and bass beat with intense percussions
 
 </td>
 <td>
@@ -105,7 +105,7 @@ Audio can not be played.
 <tr>
 <td>
 
-Prompt: *A grand orchestral arrangement with thunderous percussion, epic brass fanfares, and soaring strings, creating a cinematic atmosphere fit for a heroic battle.*
+Prompt: A grand orchestral arrangement with thunderous percussion, epic brass fanfares, and soaring strings, creating a cinematic atmosphere fit for a heroic battle.
 
 </td>
 <td>
@@ -121,7 +121,7 @@ Audio can not be played.
 <tr>
 <td>
 
-Prompt: *Funky piece with a strong, danceable beat and a prominent bassline. A catchy melody from a keyboard adds a layer of richness and complexity to the song.*
+Prompt: Funky piece with a strong, danceable beat and a prominent bassline. A catchy melody from a keyboard adds a layer of richness and complexity to the song.
 
 </td>
 <td>
@@ -137,7 +137,7 @@ Audio can not be played.
 <tr>
 <td>
 
-Prompt: *Funky piece with a strong, danceable beat and a prominent bassline. A catchy melody from a keyboard adds a layer of richness and complexity to the song.*
+Prompt: Funky piece with a strong, danceable beat and a prominent bassline. A catchy melody from a keyboard adds a layer of richness and complexity to the song.
 
 </td>
 <td>
@@ -152,7 +152,7 @@ Audio can not be played.
 <tr>
 <td>
 
-Prompt: *Epic soundtrack using orchestral instruments. The piece builds tension, creates a sense of urgency. An a cappella chorus sing in unison, it creates a sense of power and strength.*
+Prompt: Epic soundtrack using orchestral instruments. The piece builds tension, creates a sense of urgency. An a cappella chorus sing in unison, it creates a sense of power and strength.
 
 </td>
 <td>
@@ -168,7 +168,7 @@ Audio can not be played.
 <tr>
 <td>
 
-Prompt: *Violins and synths that inspire awe at the finiteness of life and the universe.*
+Prompt: Violins and synths that inspire awe at the finiteness of life and the universe.
 
 </td>
 <td>
@@ -184,7 +184,7 @@ Audio can not be played.
 <tr>
 <td>
 
-Prompt: *The main soundtrack of an arcade game. It is fast-paced and upbeat, with a catchy electric guitar riff. The music is repetitive and easy to remember, but with unexpected sounds, like cymbal crashes or drum rolls.*
+Prompt: The main soundtrack of an arcade game. It is fast-paced and upbeat, with a catchy electric guitar riff. The music is repetitive and easy to remember, but with unexpected sounds, like cymbal crashes or drum rolls.
 
 </td>
 <td>
@@ -200,7 +200,7 @@ Audio can not be played.
 <tr>
 <td>
 
-Prompt: *We can hear a choir, singing a Gregorian chant, and a drum machine, creating a rhythmic beat. The slow, stately sounds of strings provide a calming backdrop for the fast, complex sounds of futuristic electronic music.*
+Prompt: We can hear a choir, singing a Gregorian chant, and a drum machine, creating a rhythmic beat. The slow, stately sounds of strings provide a calming backdrop for the fast, complex sounds of futuristic electronic music.
 
 </td>
 <td>
