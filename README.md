@@ -29,10 +29,12 @@ I hold a Bachelor of Engineering degree in Automatic Control, Cybernetics, and R
 - Rector's Scholarship for the best students for the 2020/21, 2021/22, 2022/23 academic years.
 
 ## Projects
-### GGPT Music Composer
+### GGPT Music Composer [2023]
 
 My biggest solo project and bachelor thesis work was developed using **Python**. It presents an **alternative approach to generating multitrack, full-length MIDI songs from text using ChatGPT API, genetic algorithms and probabilistic methods**. LLM defines structure, which includes time signature, scales, chord progressions, and valence-arousal values, from which accompaniment, melody,
 bass, motif, and percussion tracks are created. The hybrid system uses emotional parameters from predicted point on valence-arousal plane, which have impact on GA fitness function and other parameters such as MIDI velocity range. Tracks and their sections are given their titles, and creative process is explained by ChatGPT in the chat window. The system can serve as an inspiration for musicians because of MIDI usage and no limits imposed by dominating structures in music.
+
+![GGPT Music Composer Interface](/assets/img/GGPTComposer.png)
 
 #### Example generations
 To present the functionality of the system, I generated couple of songs using descriptions from [Meta's MusicGen](https://audiocraft.metademolab.com/musicgen.html) and [Google's MusicLM](https://google-research.github.io/seanet/musiclm/examples/) sites. Presented wav files are synthesized from MIDI, so they have quite basic instrument sounding. They can however be used to synthesize with finer samples.
@@ -215,5 +217,22 @@ Audio can not be played.
 
 </table>
 
-#### User interface
-![GGPT Music Composer Interface](/assets/img/GGPTComposer.png)
+Technologies used: Python, PySide6, NumPy, Pandas, openai, matplotlib, MidiUtil, Mingus, PyGame
+
+## Meta-learning app (as a leader of a group) [2023]
+
+I was a leader of a group which aimed to create a hub of meta-learning models to train them on small number of images, enabing for further classification of desired categories. We implemented models such as MAML, Prototypical, Siamese Network and state-of-the-art EASY model. Best models achieved around 80% accuracy on 5-way, 10-shot task. In the app user is able to upload photos, name the categories, define hyperparameters and observe the results of the training. In another page images can be classified by a model chosen from a list of trained ones. I was responsible for planning the whole project, distributing tasks, code reviewing, writing documentation, testing and implementing the Siamese network. 
+
+Technologies used: Python, PyTorch, Tensorflow, NumPy, Matplotlib, OpenCV, Cuda, Pandas, Keras, PyQt5
+
+![Meta-learning App Interface](/assets/img/metalearning.png)
+
+## Image Sonification (as a leader of a group) [2022/23]
+
+I was a leader of a group project which aimed to turn data into sound. We created an app that takes any RGB image as an input, removes a background (if it is a photo), then finds the edges and creates MIDI out of them, assuming that height of the image influences the pitch of a note and width - the time. MIDI track is later changed into sound using implemented music synthesizer. Colors of the image have impact on synthesizer's parameters like type of wave, filters and applied effects. I was responsible for planning the whole project, distributing tasks, code review, writing documentation and converting image data into MIDI and synth parameters. 
+
+Technologies used: Python, PyQt6, NumPy, OpenCV, SciPy, matplotlib, MidiUtil, Mingus
+
+![Sonification App Interface](/assets/img/sonification.png)
+
+
