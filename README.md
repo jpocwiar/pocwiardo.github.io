@@ -1,4 +1,4 @@
-# BE in Automatic Control and Robotics | MSc CS Student | Software Developer
+# BE in Automatic Control and Robotics | MSc Computer Science Student | Software Developer
 
 I hold a Bachelor of Engineering degree in Automatic Control, Cybernetics, and Robotics and am currently pursuing a master's degree in Computer Science. My interests are primarily in the fields of sound and image processing, machine learning, and physics. I also have a profound interest in music, both from a creative and technical perspective. I enjoy reading scientific articles on Music Information Retrieval and Generative AI in music, keen to expand my knowledge in these areas.
 
@@ -32,7 +32,7 @@ I hold a Bachelor of Engineering degree in Automatic Control, Cybernetics, and R
 ### GGPT Music Composer
 
 My biggest solo project and bachelor thesis work was developed using **Python**. It presents an **alternative approach to generating multitrack, full-length MIDI songs from text using ChatGPT API, genetic algorithms and probabilistic methods**. LLM defines structure, which includes time signature, scales, chord progressions, and valence-arousal values, from which accompaniment, melody,
-bass, motif, and percussion tracks are created. The hybrid system uses emotional parameters from predicted point on valence-arousal plane, which have impact on GA fitness function and other parameters such as MIDI velocity range. Tracks and their sections are given their titles, and creative process is explained by ChatGPT in the chat window.
+bass, motif, and percussion tracks are created. The hybrid system uses emotional parameters from predicted point on valence-arousal plane, which have impact on GA fitness function and other parameters such as MIDI velocity range. Tracks and their sections are given their titles, and creative process is explained by ChatGPT in the chat window. The system can serve as an inspiration for musicians because of MIDI usage and no limits imposed by dominating structures in music.
 
 #### Example generations
 To present the functionality of the system, I generated couple of songs using descriptions from [Meta's MusicGen](https://audiocraft.metademolab.com/musicgen.html) and [Google's MusicLM](https://google-research.github.io/seanet/musiclm/examples/) sites. Presented wav files are synthesized from MIDI, so they have quite basic instrument sounding. They can however be used to synthesize with finer samples.
