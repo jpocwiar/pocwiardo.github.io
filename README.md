@@ -225,7 +225,17 @@ I was a leader of a group which aimed to create a hub of meta-learning models to
 
 Technologies used: Python, PyTorch, Tensorflow, NumPy, Matplotlib, OpenCV, Cuda, Pandas, Keras, PyQt5
 
-![Meta-learning App Interface](/assets/img/metalearning.png)
+<table>
+  <tr>
+    <td>
+      <img src="/assets/img/meta-learning.png" alt="Meta-learning App Interface page 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="/assets/img/meta-learning2.png" alt="Meta-learning App Interface page 2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
 
 ## Image Sonification (as a leader of a group) [2022/23]
 
