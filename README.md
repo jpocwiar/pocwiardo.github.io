@@ -50,7 +50,7 @@ Prompt: Smooth jazz, with a saxophone solo, piano chords, and snare full drums
 
 <audio controls>
   <source src="assets/audio/Velvet-Evening-20231208-114938.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
@@ -66,7 +66,7 @@ Prompt: 80s electronic track with melodic synthesizers, catchy beat and groovy b
 
 <audio controls>
   <source src="assets/audio/Retro-Synthwave-20231209-175338.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
@@ -82,7 +82,7 @@ Prompt: Progressive rock drum and bass solo
 
 <audio controls>
   <source src="assets/audio/Progressive-Odyssey-20231208-143.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
@@ -98,7 +98,7 @@ Prompt: drum and bass beat with intense percussions
 
 <audio controls>
   <source src="assets/audio/Intense-Rhythm-20231208-115146.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
@@ -114,7 +114,7 @@ Prompt: A grand orchestral arrangement with thunderous percussion, epic brass fa
 
 <audio controls>
   <source src="assets/audio/Heroic-Skies-20231208-130450.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
@@ -130,7 +130,7 @@ Prompt: Funky piece with a strong, danceable beat and a prominent bassline. A ca
 
 <audio controls>
   <source src="assets/audio/Funk-Odyssey-20231209-134348.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
@@ -146,7 +146,7 @@ Prompt: Funky piece with a strong, danceable beat and a prominent bassline. A ca
 
 <audio controls>
   <source src="assets/audio/Funk-Odyssey-20231209-134348.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
@@ -161,7 +161,7 @@ Prompt: Epic soundtrack using orchestral instruments. The piece builds tension, 
 
 <audio controls>
   <source src="assets/audio/Epic-Orchestral-Surge-20231208-1.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
@@ -177,7 +177,7 @@ Prompt: Violins and synths that inspire awe at the finiteness of life and the un
 
 <audio controls>
   <source src="assets/audio/Celestial-Reverie-20231208-11391.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
@@ -193,7 +193,7 @@ Prompt: The main soundtrack of an arcade game. It is fast-paced and upbeat, with
 
 <audio controls>
   <source src="assets/audio/Arcade-Rush-20231208-135906.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
@@ -209,7 +209,7 @@ Prompt: We can hear a choir, singing a Gregorian chant, and a drum machine, crea
 
 <audio controls>
   <source src="assets/audio/Ancient-Future-20231208-121749.wav" type="audio/wav">
-Audio can not be played.
+Audio can not be played here.
 </audio>
 
 </td>
