@@ -5,8 +5,9 @@ I hold a Bachelor of Engineering degree in Automatic Control, Cybernetics, and R
 #### Main Skills: Python, Machine Learning, C++, Signal Processing
 
 ## Education
-**MSc, Computer Science | Warsaw University of Technology (_Feb 2024 - present_)**
-**BE, Automatic Control, Cybernetics and Robotics	| Gdańsk University of Technology (_Oct 2020 - Feb 2024_)**
+**(MSc) Computer Science | Warsaw University of Technology (_Feb 2024 - present_)**
+
+**(BE) Automatic Control, Cybernetics and Robotics	| Gdańsk University of Technology (_Oct 2020 - Feb 2024_)**
 - Grade: 5/5 with distinction, GPA: 4.702/5
 
 ## Work Experience
@@ -34,7 +35,7 @@ My biggest solo project and bachelor thesis work was developed using **Python**.
 bass, motif, and percussion tracks are created. The hybrid system uses emotional parameters from predicted point on valence-arousal plane, which have impact on GA fitness function and other parameters such as MIDI velocity range. Tracks and their sections are given their titles, and creative process is explained by ChatGPT in the chat window.
 
 #### Example generations
-To present the functionality of the system, I generated couple of songs using descriptions from Meta's MusicGen and Google's MusicLM sites. Presented wav files are synthesized from MIDI, so they have quite basic instrument sounding. They can however be used to synthesize with finer samples.
+To present the functionality of the system, I generated couple of songs using descriptions from [Meta's MusicGen](https://audiocraft.metademolab.com/musicgen.html) and [Google's MusicLM](https://google-research.github.io/seanet/musiclm/examples/) sites. Presented wav files are synthesized from MIDI, so they have quite basic instrument sounding. They can however be used to synthesize with finer samples.
 
 <table>
 <tr>
@@ -116,7 +117,6 @@ Audio can not be played.
 
 </td>
 </tr>
-</table>
 
 <tr>
 <td>
@@ -215,4 +215,5 @@ Audio can not be played.
 
 </table>
 
+#### User interface
 ![GGPT Music Composer Interface](/assets/img/GGPTComposer.png)
