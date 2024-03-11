@@ -11,7 +11,7 @@ I hold a Bachelor of Engineering degree in Automatic Control, Cybernetics, and R
 - Grade: 5/5 with distinction, GPA: 4.702/5
 
 ## Work Experience
-**Working Student - Software Developer / Test Automation Developer | Nokia (_Oct 2023 - Present_)**
+**Working Student - Software Developer / Test Automation Developer (part time) | Nokia (_Oct 2023 - Present_)**
 - Development and maintanance of source code in C/C++
 - Technologies in use: C/C++, Linux, Docker, Kubernetes, Git, Jira, Gerrit
 
