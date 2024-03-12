@@ -1,4 +1,4 @@
-# BE in Automatic Control and Robotics | MSc Student in Computer Science | Software Developer
+# Jakub Poćwiardowski
 
 I hold a Bachelor of Engineering degree in Automatic Control, Cybernetics, and Robotics and am currently pursuing a master's degree in Computer Science. My interests are primarily in the fields of sound and image processing, machine learning, and physics. I also have a profound interest in music, both from a creative and technical perspective. I enjoy reading scientific articles on Music Information Retrieval and Generative AI in music, keen to expand my knowledge in these areas.
 
