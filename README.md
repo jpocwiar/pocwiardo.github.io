@@ -41,7 +41,7 @@ I hold a Bachelor of Engineering degree in Automatic Control, Cybernetics, and R
 ### GGPT Music Composer | 2023
 
 My biggest solo project and bachelor thesis work was developed using **Python**. It presents an **alternative approach to generating multitrack, full-length MIDI songs from text using ChatGPT API, genetic algorithms and probabilistic methods**. LLM defines structure, which includes time signature, scales, chord progressions, and valence-arousal values, from which accompaniment, melody,
-bass, motif, and percussion tracks are created. The hybrid system uses emotional parameters from predicted point on valence-arousal plane, which have impact on GA fitness function and other parameters such as MIDI velocity range. Tracks and their sections are given their titles, and creative process is explained by ChatGPT in the chat window. The system can serve as an inspiration for musicians because of MIDI usage and no limits imposed by dominating structures in music.
+bass, motif, and percussion tracks are created. The hybrid system uses emotional parameters from predicted point on valence-arousal plane, which have impact on GA fitness function and other parameters such as MIDI velocity range. Tracks and their sections are given their titles, and creative process is explained by ChatGPT in the chat window. Created compositions can be loaded and modified by further prompts (previous context is saved). The system can serve as an inspiration for musicians because of MIDI usage and no limits imposed by dominating structures in music. 
 
 ![GGPT Music Composer Interface](/assets/img/GGPTComposer.png)
 
