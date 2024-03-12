@@ -144,22 +144,6 @@ Audio can not be played here.
 
 </td>
 </tr>
-
-<tr>
-<td>
-
-Prompt: Funky piece with a strong, danceable beat and a prominent bassline. A catchy melody from a keyboard adds a layer of richness and complexity to the song.
-
-</td>
-<td>
-
-<audio controls>
-  <source src="assets/audio/Funk-Odyssey-20231209-134348.wav" type="audio/wav">
-Audio can not be played here.
-</audio>
-
-</td>
-</tr>
 <tr>
 <td>
 
