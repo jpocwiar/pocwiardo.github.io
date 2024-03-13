@@ -22,11 +22,11 @@ I hold a Bachelor of Engineering degree in Automatic Control, Cybernetics, and R
 ## Work Experience
 **Working Student - Software Developer / Test Automation Developer (part time) | Nokia (_Oct 2023 - Present_)**
 - Development and maintanance of source code in C/C++
-- Technologies in use: C/C++, Linux, Docker, Kubernetes, Git, Jira, Gerrit
+- Technologies in use: C/C++, Linux, Docker, Kubernetes, Git, Jira, Gerrit, Jenkins
 
 **Summer Trainee - Software Developer / Test Automation Developer (full time) | Nokia (_Jul 2023 - Sep 2023_)**
 - Writing automated tests in Robot Framework, development and maintanance of source code in C/C++
-- Technologies in use: Robot Framework, Python, C/C++, Linux, Docker, Kubernetes, Git, Jira, Gerrit
+- Technologies in use: Robot Framework, Python, C/C++, Linux, Docker, Kubernetes, Git, Jira, Gerrit, Jenkins
 
 ## Certificates
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/PYP8WKSV9SNV)
